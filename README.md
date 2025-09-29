@@ -8,8 +8,7 @@
 - 4-open termux and run this command to grant storage permission -> termux-setup-storage
 - 5-curl -s https://raw.githubusercontent.com/nohajc/termux-adb/master/install.sh | bash
 - 6-curl -L "https://github.com/omar3elbakery/GSI-Flash-Tool/releases/download/GSI-Flash-Tool/GSI-Flasher-Next-Gen-V1.sh" -o "/data/data/com.termux/files/usr/bin/GSI-Flasher"
-- 7-chmod +x GSI-Flasher
-- 8-now to run the script just write this command -> GSI-Falsher
+- 7-Now to run script -» bash GSI-Flasher
 
 # Credits 
 - Developed By : @OMAR_EL_BAKERY

@@ -1,5 +1,5 @@
 # GSI-Flash-Tool
-** a simple tool to flash gsi roms without pc -> only termux
+- a simple tool to flash gsi roms without pc -> only termux
 
 # How to use it 
 - 1-install termux from f-droid

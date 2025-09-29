@@ -10,7 +10,7 @@
 - 6-pkg install wget -y
 - 7-wget https://github.com/omar3elbakery/GSI-Flash-Tool/releases/download/GSI-Flash-Tool/GSI-Flasher-Next-Gen-V1.sh
 - 8-mv GSI-Flasher-Next-Gen-V1.sh GSI-Flasher && chmod +x GSI-Flasher && mv GSI-Flasher /data/data/com.termux/files/usr/bin
-- 9-Now to run script write and run it -» GSI-Flash
+- 9-Now to run script write and run it -» GSI-Flasher
 
 # Credits 
 - Developed By : @OMAR_EL_BAKERY

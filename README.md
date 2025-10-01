@@ -7,7 +7,7 @@
 - 2-install termux-api from f-droid
 - 3-open termux-api and give it permissions
 - 4-open termux and run this command to grant storage permission -> termux-setup-storage
-- 5-"curl -s https://raw.githubusercontent.com/nohajc/termux-adb/master/install.sh | bash"
+- 5-curl -s https://raw.githubusercontent.com/nohajc/termux-adb/master/install.sh | bash
 - 6-pkg install wget -y
 - 7-wget https://github.com/omar3elbakery/GSI-Flash-Tool/releases/download/GSI-Flash-Tool/GSI-Flasher-Next-Gen-V1.sh
 - 8-mv Advanced.GSI-Flasher-Next-Gen-V1.sh GSI-Flasher-V1 && chmod +x GSI-Flasher-V1 && mv GSI-Flasher-V1 /data/data/com.termux/files/usr/bin

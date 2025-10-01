@@ -20,7 +20,7 @@
 - 5-curl -s https://raw.githubusercontent.com/nohajc/termux-adb/master/install.sh | bash
 - 6-pkg install wget -y
 - 7-wget https://github.com/omar3elbakery/GSI-Flash-Tool/releases/download/GSI-Flash-Tool/Automatic.GSI-Flasher-Next-Gen-V2.sh
-- 8-mv GSI-Flasher-Next-Gen-V2.sh GSI-Flasher-V2 && chmod +x GSI-Flasher-V2 && mv GSI-Flasher-V2 /data/data/com.termux/files/usr/bin
+- 8-mv Automatic.GSI-Flasher-Next-Gen-V2.sh GSI-Flasher-V2 && chmod +x GSI-Flasher-V2 && mv GSI-Flasher-V2 /data/data/com.termux/files/usr/bin
 - 9-Now to run script write and run it -» GSI-Flasher-V2
 # Credits 
 - Developed By : @OMAR_EL_BAKERY

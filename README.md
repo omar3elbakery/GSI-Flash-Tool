@@ -26,7 +26,16 @@ termux-setup-storage
 ```env
 wget https://github.com/omar3elbakery/GSI-Flash-Tool/releases/download/GSI-Flash-Tool/installer.sh && chmod +x installer.sh && bash installer.sh
 ```
+# Usage
+For V1 :
+```env
+bash GSI-Flasher-V1
+```
+For V2 :
+```env
+bash GSI-Flasher-V2
+```
 # Credits 
 - Developed By : @OMAR_EL_BAKERY
 - Developed By : @doma00
-- Tested By : @A_KOJ0
+- Tested By    : @A_KOJ0

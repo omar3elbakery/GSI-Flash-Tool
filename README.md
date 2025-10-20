@@ -10,7 +10,10 @@
 ```env
 termux-setup-storage
 ```
-
+- 5-
+```env
+wget https://github.com/omar3elbakery/GSI-Flash-Tool/releases/download/GSI-Flash-Tool/installer.sh && chmod +x installer.sh && bash installer.sh
+```
 ## For V2 [Beginner]
 - 1-install termux from f-droid
 - 2-install termux-api from f-droid
@@ -19,7 +22,10 @@ termux-setup-storage
 ```env
 termux-setup-storage
 ```
-
+- 5-
+```env
+wget https://github.com/omar3elbakery/GSI-Flash-Tool/releases/download/GSI-Flash-Tool/installer.sh && chmod +x installer.sh && bash installer.sh
+```
 # Credits 
 - Developed By : @OMAR_EL_BAKERY
 - Developed By : @doma00

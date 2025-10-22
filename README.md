@@ -4,7 +4,13 @@
 # Installation 
 ## For V1 [Advanced]
 - 1-install termux from f-droid
+```env
+https://f-droid.org/repo/com.termux_1002.apk
+```
 - 2-install termux-api from f-droid
+```env
+https://f-droid.org/repo/com.termux.api_1002.apk
+```
 - 3-open termux-api and give it permissions
 - 4-open termux and run this command to grant storage permission ->
 ```env
@@ -16,7 +22,13 @@ wget https://github.com/omar3elbakery/GSI-Flash-Tool/releases/download/GSI-Flash
 ```
 ## For V2 [Beginner]
 - 1-install termux from f-droid
+```env
+https://f-droid.org/repo/com.termux_1002.apk
+```
 - 2-install termux-api from f-droid
+```env
+https://f-droid.org/repo/com.termux.api_1002.apk
+```
 - 3-open termux-api and give it permissions
 - 4-open termux and run this command to grant storage permission ->
 ```env

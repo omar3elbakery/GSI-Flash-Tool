@@ -39,11 +39,20 @@ termux-setup-storage
 curl -L -O https://github.com/omar3elbakery/GSI-Flash-Tool/releases/download/GSI-Flash-Tool/installer.sh && chmod +x installer.sh && bash installer.sh
 ```
 # Usage
-For V1 :
+## For V1 :
+```env
+GSI-Flasher-V1
+```
+If it not works try this one
 ```env
 bash GSI-Flasher-V1
 ```
-For V2 :
+## For V2 :
+
+```env
+GSI-Flasher-V2
+```
+If it not works try this one
 ```env
 bash GSI-Flasher-V2
 ```

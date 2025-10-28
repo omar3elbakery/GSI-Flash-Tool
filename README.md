@@ -18,7 +18,7 @@ termux-setup-storage
 ```
 - 5-
 ```env
-wget https://github.com/omar3elbakery/GSI-Flash-Tool/releases/download/GSI-Flash-Tool/installer.sh && chmod +x installer.sh && bash installer.sh
+curl -L -O https://github.com/omar3elbakery/GSI-Flash-Tool/releases/download/GSI-Flash-Tool/installer.sh && chmod +x installer.sh && bash installer.sh
 ```
 ## For V2 [Beginner]
 - 1-install termux from f-droid
@@ -36,7 +36,7 @@ termux-setup-storage
 ```
 - 5-
 ```env
-wget https://github.com/omar3elbakery/GSI-Flash-Tool/releases/download/GSI-Flash-Tool/installer.sh && chmod +x installer.sh && bash installer.sh
+curl -L -O https://github.com/omar3elbakery/GSI-Flash-Tool/releases/download/GSI-Flash-Tool/installer.sh && chmod +x installer.sh && bash installer.sh
 ```
 # Usage
 For V1 :
@@ -49,5 +49,4 @@ bash GSI-Flasher-V2
 ```
 # Credits 
 - Developed By : @OMAR_EL_BAKERY
-- Developed By : @doma00
 - Tested By    : @A_KOJ0
